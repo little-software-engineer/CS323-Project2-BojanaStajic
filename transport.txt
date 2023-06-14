@@ -1,0 +1,4 @@
+1 OrientExpress DSGA231 kopneni Eurotrain Dupli Elektricni
+1 Actos GDHD45 kopneni 3000 Mercedes 3000
+1 Oyster GGDDDTE2 vodeni 495 Ne
+6 Lufthansa A230 vazdusni StarAllianc 324HDG32 2017
